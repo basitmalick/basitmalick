@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Abdul Basit
 
-<!--
-**basitmalick/basitmalick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate SQA / QA Automation Engineer from Pakistan
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **QA Automation Testing**
+- 🌱 I’m currently learning **Selenium, PyTest & API Testing**
+- 👨‍💻 My projects are available on **GitHub**
+- 💬 Ask me about **Software Testing, Selenium, Python & SQL**
+- ⚡ Fun fact **I find bugs before users do 🐞**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Testing Skills
+
+- Manual Testing
+- Automation Testing
+- Selenium WebDriver
+- PyTest
+- Page Object Model (POM)
+- API Testing
+- Postman
+- Test Case Design
+- Bug Reporting
+- SQL / MySQL
+
+## 🛠️ Tools & Technologies
+
+Python | Selenium | PyTest | Postman | MySQL | Git | GitHub | Jira
+
+## 🚀 Featured Projects
+
+### 🧪 OrangeHRM Automation Testing
+Automation testing using Python, Selenium, PyTest and Page Object Model.
+
+### 🧪 SauceDemo Automation Testing
+Web automation testing project using Selenium, Python and PyTest.
+
+### 📊 Data Analysis
+Data analysis projects using Excel, SQL and Power BI.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/basitmalick
+- LinkedIn: www.linkedin.com/in/abdulbasit182
+
+- GitHub: https://github.com/basitmalick
+- LinkedIn: Add your LinkedIn profile here
