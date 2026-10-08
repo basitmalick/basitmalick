@@ -41,5 +41,4 @@ Data analysis projects using Excel, SQL and Power BI.
 - GitHub: https://github.com/basitmalick
 - LinkedIn: www.linkedin.com/in/abdulbasit182
 
-- GitHub: https://github.com/basitmalick
-- LinkedIn: Add your LinkedIn profile here
+
